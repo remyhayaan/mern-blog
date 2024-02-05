@@ -15,7 +15,7 @@ const UserSchema = new mongoose.Schema({
         type: String,
         required:true,
     }
-},{timestamp:true}
+}, {timestamp:true}
 );
 
 
