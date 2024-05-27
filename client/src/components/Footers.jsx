@@ -24,7 +24,7 @@ function Footers() {
         100 JS projects
     </Footer.Link>
   <Footer.Link href = '/about' target='blank' rel='noopener noreferrer'>
-      Remy's Blog
+      GROUP.A Project
     </Footer.Link>
   </Footer.LinkGroup>
   </div>
@@ -56,7 +56,7 @@ function Footers() {
     </div>
     <Footer.Divider/>
     <div className='w-full sm:flex sm:items-center sm:justify-between'>
-      <Footer.Copyright href='#' by="Remy's Blog" year={new Date().getFullYear()}/>
+      <Footer.Copyright href='#' by="Group Project" year={new Date().getFullYear()}/>
     <div className='flex gap-6 sm:mt-0 mt-4 sm:justify-center'>
       <Footer.Icon href='#' icon={BsFacebook}/>
       <Footer.Icon href='#' icon={BsInstagram}/>
