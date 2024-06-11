@@ -4,6 +4,15 @@ function Projects() {
   return (
     <div>
       <h1>posters</h1>
+   
+
+
+
+   
+
+export default SliderComponent;
+
+
     </div>
   )
 }
