@@ -14,7 +14,6 @@ email :{
 password :{
     type: String,
     required: true,
-
 },
 profilePicture :{
     type: String,
